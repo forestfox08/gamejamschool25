@@ -1,10 +1,10 @@
 fileFormatVersion: 2
-guid: 89f0a037e123ebd4892ccb9617205b37
+guid: 0f2b577ef800d0740a42c71054230d84
 TextureImporter:
   internalIDToNameTable:
   - first:
-      213: -7179993018415488473
-    second: Achtergrond_0
+      213: 2335476856576922664
+    second: Walking_Hat0005_0
   externalObjects: {}
   serializedVersion: 13
   mipmaps:
@@ -100,13 +100,13 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: Achtergrond_0
+      name: Walking_Hat0005_0
       rect:
         serializedVersion: 2
-        x: 0
-        y: 0
-        width: 1192
-        height: 660
+        x: 909
+        y: 409
+        width: 206
+        height: 261
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -115,8 +115,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 7226f87146a8b5c90800000000000000
-      internalID: -7179993018415488473
+      spriteID: 824d961c3d7496020800000000000000
+      internalID: 2335476856576922664
       vertices: []
       indices: 
       edges: []
@@ -135,7 +135,7 @@ TextureImporter:
     spriteCustomMetadata:
       entries: []
     nameFileIdTable:
-      Achtergrond_0: -7179993018415488473
+      Walking_Hat0005_0: 2335476856576922664
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 
